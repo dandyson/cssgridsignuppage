@@ -32,7 +32,7 @@ p {
 
 #imgDiv {
   margin: 0;
-  background-image: url("/images/hero-mobile.jpg");
+  background-image: url("images/hero-mobile.jpg");
   background-size: cover;
 }
 
@@ -158,7 +158,7 @@ p {
 
   #imgDiv {
     margin: 0;
-    background-image: url("/images/hero-desktop.jpg");
+    background-image: url("images/hero-desktop.jpg");
     background-size: cover;
     grid-column-start: 2;
     grid-column-end: 3;
